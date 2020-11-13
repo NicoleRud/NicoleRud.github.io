@@ -3,4 +3,4 @@
 # Nicole Rud
 Мои домашние задания
 
-[Урок](NicoleRud.github.io/lesson/ "Маленький пример") - раота с рипозиторием на GitHUb
+[Урок 12](NicoleRud.github.io/lesson/ "Маленький пример") - работа с рипозиторием на GitHub
